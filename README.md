@@ -1,1 +1,1 @@
-# -Hate-Speech-Detection-in-social-Media-
+# Hate_Speech_Detection_on_social_Media_data
